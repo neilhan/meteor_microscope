@@ -1,0 +1,9 @@
+{
+    "name": "errors",
+    "description": "A pattern to display application errors to the user",
+    "homepage": "https://neilhan.ca",
+    "author": "Neil Han <neil.han@gmail.com>",
+    "version": "1.0",
+    "git": "",
+    "Packages": {}
+}

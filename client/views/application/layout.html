@@ -1,0 +1,10 @@
+<template name="layout">
+    <div class="container">
+        {{> header}}
+        {{> meteorErrors}}
+        This is layout.
+        <div id="main" class="rowsfluid">
+            {{yield}}
+        </div>
+    </div>
+</template>

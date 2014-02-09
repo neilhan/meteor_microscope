@@ -1,0 +1,7 @@
+<template name="debug">
+    <div>{{theRoute.params.p_a}}</div>
+    <div>{{theRoute.path}}</div>
+    {{#with thePost}}
+    <div>{{pathFor 'postPage'}}</div>
+    {{/with}}
+</template>
